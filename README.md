@@ -2,6 +2,8 @@
 
 An interactive React application that visualizes the **Goldberg–Tarjan (Push–Relabel)** algorithm for finding the maximum flow in a network. This tool provides a step-by-step graphical representation of how the algorithm pushes excess flow and relabels nodes to reach a solution.
 
+<img width="1074" height="720" alt="image" src="https://github.com/user-attachments/assets/bfc75129-d549-4fdb-b6ea-32847fba260c" />
+
 ---
 
 ## **Features**
@@ -33,4 +35,4 @@ npm install
 npm run dev
 ```
 
-### **Open in browser** Click the link provided in the terminal (`http://localhost:5173`) to view the visualization.
+**Open in browser** Click the link provided in the terminal (`http://localhost:5173`) to view the visualization.
